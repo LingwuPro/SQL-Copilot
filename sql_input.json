@@ -1,0 +1,42 @@
+[
+    {
+        "query": "How many heads of the departments are older than 56 ?",
+        "database": "department_management"
+    },
+    {
+        "query": "List the name, born state and age of the heads of departments ordered by age.",
+        "database": "department_management"
+    },
+    {
+        "query": "List the total number of horses on farms in ascending order.",
+        "database": "farm"
+    },
+    {
+        "query": "What are the official names of cities, ordered descending by population?",
+        "database": "farm"
+    },
+    {
+        "query": "What are the ids of all students who have attended at least one course?",
+        "database": "student_assessment"
+    },
+    {
+        "query": "How many students attend course English?",
+        "database": "student_assessment"
+    },
+    {
+        "query": "What are the days that had the smallest temperature range, and what was that range?",
+        "database": "bike_1"
+    },
+    {
+        "query": "What are the id and name of the stations that have ever had more than 12 bikes available?",
+        "database": "bike_1"
+    },
+    {
+        "query": "What are the different ids and names of the stations that have had more than 12 bikes available?",
+        "database": "bike_1"
+    },
+    {
+        "query": "List the titles of books that are not published.",
+        "database": "book_2"
+    }
+]
