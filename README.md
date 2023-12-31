@@ -1,4 +1,4 @@
-# SQL-Copilot 离线可用的database-aware代码生成模型
+# SQL-Copilot：离线可用的database-aware代码生成模型
 
 **灵乌 & kk** **多媒体大作业项目仓库**
 
